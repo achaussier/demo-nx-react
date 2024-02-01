@@ -14,5 +14,5 @@ COPY . .
 # Build app
 RUN ./node_modules/.bin/nx build
 
-FROM nginx:alpine
+FROM nginx:latest
 COPY --from=build /app/dist/myreactapp /usr/share/nginx/html

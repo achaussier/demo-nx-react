@@ -1,0 +1,6 @@
+projectKey=Demo-React
+serverUrl=http://195.154.75.209
+serverVersion=10.3.0.82913
+dashboardUrl=http://195.154.75.209/dashboard?id=Demo-React
+ceTaskId=AY1k94VRI8EbgX2ngORl
+ceTaskUrl=http://195.154.75.209/api/ce/task?id=AY1k94VRI8EbgX2ngORl
